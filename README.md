@@ -9,6 +9,6 @@ Questions to answer:
 RQ1: Pitfalls of VaR Methodologies (and Expected Shortfall) in Different Approaches with different time period with different geopolitical events.
 RQ2: Cross-commodity VaR analysis with correlations and how it affects VaR and Expected Shortfall.
 
-to install all the required libraries, use the requirements.txt file.
+To install all the required libraries, use the requirements.txt file.
 ```bash
 pip install -r requirements.txt
